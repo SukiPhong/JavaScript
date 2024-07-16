@@ -1,0 +1,29 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "name": "Lập trình Python cơ bản",
+      "description": "Khóa học này giới thiệu các khái niệm cơ bản của ngôn ngữ lập trình Python và cách áp dụng chúng vào các dự án thực tế."
+    },
+    {
+      "id": 2,
+      "name": "Phát triển web với HTML, CSS và JavaScript",
+      "description": "Khóa học này cung cấp kiến thức cơ bản và nâng cao về phát triển web, bao gồm HTML, CSS và JavaScript."
+    },
+    {
+      "id": 3,
+      "name": "Phân tích dữ liệu với Excel",
+      "description": "Khóa học này hướng dẫn cách sử dụng Excel để phân tích và trực quan hóa dữ liệu một cách hiệu quả."
+    },
+    {
+      "id": 4,
+      "name": "Học máy (Machine Learning) cơ bản",
+      "description": "Khóa học này giới thiệu các thuật toán học máy cơ bản và cách áp dụng chúng vào các bài toán thực tế."
+    },
+    {
+      "id": 5,
+      "name": "Tiếng Anh giao tiếp cơ bản",
+      "description": "Khóa học này giúp người học cải thiện kỹ năng giao tiếp bằng tiếng Anh thông qua các bài học và thực hành tình huống thực tế."
+    }
+  ]
+}
